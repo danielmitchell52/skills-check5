@@ -189,6 +189,12 @@ img{
      height: 300px;
     }
 
+    .links{
+        text-decoration: none;
+        outline: none;
+        color: black;
+    }
+
     .box2{
         background: url('Images/1001-5616x3744.jpg') no-repeat;
         background-repeat: no-repeat;
